@@ -1,0 +1,38 @@
+[
+  {
+    "id": "q1",
+    "question": "Tell me about your experience with Python and how you've used it in production systems.",
+    "difficulty": "medium",
+    "category": "technical",
+    "expected_focus": "Technical depth, production experience, specific use cases"
+  },
+  {
+    "id": "q2",
+    "question": "Describe a challenging project you worked on and how you solved the problems you encountered.",
+    "difficulty": "medium",
+    "category": "problem-solving",
+    "expected_focus": "Problem-solving approach, technical challenges, collaboration"
+  },
+  {
+    "id": "q3",
+    "question": "How do you stay updated with industry trends and new technologies?",
+    "difficulty": "easy",
+    "category": "behavioral",
+    "expected_focus": "Learning mindset, continuous improvement, professional development"
+  },
+  {
+    "id": "q4",
+    "question": "Explain a time when you had to learn a new technology or framework quickly for a project.",
+    "difficulty": "medium",
+    "category": "behavioral",
+    "expected_focus": "Adaptability, learning ability, time management"
+  },
+  {
+    "id": "q5",
+    "question": "What is your approach to debugging complex issues in production systems?",
+    "difficulty": "hard",
+    "category": "technical",
+    "expected_focus": "Debugging methodology, system understanding, problem-solving under pressure"
+  }
+]
+

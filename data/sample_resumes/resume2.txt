@@ -1,0 +1,38 @@
+JANE SMITH
+Data Scientist
+Email: jane.smith@email.com | Phone: (555) 987-6543
+Location: New York, NY
+
+PROFESSIONAL SUMMARY
+Data scientist with 3 years of experience in machine learning, statistical analysis, and data visualization. 
+Proficient in Python, SQL, and various ML frameworks.
+
+TECHNICAL SKILLS
+Programming: Python, R, SQL
+ML/AI: TensorFlow, PyTorch, Scikit-learn, XGBoost
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn
+Databases: PostgreSQL, MySQL, MongoDB
+Cloud: AWS, Google Cloud Platform
+
+WORK EXPERIENCE
+
+Data Scientist | DataAnalytics Co. | 2021 - Present
+• Developed ML models for customer churn prediction achieving 85% accuracy
+• Built ETL pipelines processing 10TB+ of data daily
+• Created interactive dashboards using Tableau and Python
+• Collaborated with product team to implement data-driven features
+
+Junior Data Analyst | FinanceCorp | 2019 - 2021
+• Performed statistical analysis on financial datasets
+• Created automated reporting systems using Python
+• Assisted in building predictive models for risk assessment
+
+EDUCATION
+Master of Science in Data Science
+New York University | 2017 - 2019
+Bachelor of Science in Mathematics
+State University | 2013 - 2017
+
+CERTIFICATIONS
+Google Cloud Professional Data Engineer (2022)
+

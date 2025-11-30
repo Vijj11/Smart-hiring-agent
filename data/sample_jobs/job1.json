@@ -1,0 +1,12 @@
+{
+  "title": "Senior Software Engineer",
+  "company": "TechCorp Inc.",
+  "location": "San Francisco, CA",
+  "description": "We are looking for a Senior Software Engineer to join our growing team. You will be responsible for designing and developing scalable web applications, working with microservices architecture, and collaborating with cross-functional teams.",
+  "requirements": "5+ years of software development experience, strong knowledge of Python and JavaScript, experience with cloud platforms (AWS), familiarity with Docker and Kubernetes, strong problem-solving skills.",
+  "required_skills": ["Python", "JavaScript", "AWS", "Docker", "Kubernetes", "Microservices", "REST APIs", "PostgreSQL", "React", "Node.js"],
+  "seniority_level": "senior",
+  "keywords": ["python", "javascript", "aws", "docker", "kubernetes", "microservices", "full-stack", "agile", "ci/cd"],
+  "application_url": "https://techcorp.com/careers/senior-software-engineer"
+}
+

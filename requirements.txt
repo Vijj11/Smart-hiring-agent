@@ -1,0 +1,43 @@
+# FastAPI and web server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Streamlit frontend
+streamlit==1.28.1
+
+# Database
+sqlalchemy==2.0.23
+alembic==1.12.1
+
+# Vector databases (at least one required for job recommendations)
+# chromadb==0.4.15  # Optional - requires C++ build tools, install separately: pip install chromadb
+pinecone-client==2.2.4  # Alternative cloud option
+
+# Document parsing
+pdfplumber==0.10.3
+python-docx==1.1.0
+PyPDF2==3.0.1
+
+# LLM and embeddings
+openai==1.3.5
+# tiktoken==0.5.1  # Optional - requires Rust compiler
+
+# Data processing
+pydantic==2.5.0
+pydantic-settings==2.1.0
+numpy>=1.26.0
+
+# Utilities
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+
+# Logging and monitoring
+structlog==23.2.0
+
+

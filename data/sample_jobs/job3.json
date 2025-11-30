@@ -1,0 +1,12 @@
+{
+  "title": "Full Stack Developer",
+  "company": "StartupXYZ",
+  "location": "Remote",
+  "description": "We're looking for a Full Stack Developer to help build our next-generation web platform. You'll work on both frontend and backend, using modern technologies like React and Node.js.",
+  "requirements": "2+ years of full-stack development, proficiency in JavaScript/TypeScript, experience with React and Node.js, familiarity with databases (PostgreSQL, MongoDB), knowledge of REST APIs.",
+  "required_skills": ["JavaScript", "TypeScript", "React", "Node.js", "PostgreSQL", "MongoDB", "REST APIs", "Git", "Docker"],
+  "seniority_level": "mid",
+  "keywords": ["javascript", "react", "node.js", "full-stack", "typescript", "postgresql", "mongodb", "rest apis"],
+  "application_url": "https://startupxyz.com/careers/full-stack-developer"
+}
+

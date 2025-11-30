@@ -1,0 +1,12 @@
+{
+  "title": "Data Scientist",
+  "company": "DataAnalytics Co.",
+  "location": "New York, NY",
+  "description": "Join our data science team to build machine learning models, analyze large datasets, and provide data-driven insights. You will work on projects involving predictive modeling, natural language processing, and recommendation systems.",
+  "requirements": "3+ years of data science experience, proficiency in Python and SQL, experience with ML frameworks (TensorFlow, PyTorch), strong statistical background, experience with cloud platforms.",
+  "required_skills": ["Python", "SQL", "TensorFlow", "PyTorch", "Machine Learning", "Data Analysis", "Pandas", "NumPy", "AWS", "PostgreSQL"],
+  "seniority_level": "mid",
+  "keywords": ["python", "machine learning", "tensorflow", "pytorch", "data science", "sql", "statistics", "aws"],
+  "application_url": "https://dataanalytics.com/careers/data-scientist"
+}
+
