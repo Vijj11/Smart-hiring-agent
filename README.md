@@ -249,4 +249,35 @@ MIT
 3. Add tests
 4. Submit a pull request
 
+Architectural Flow
+
+                    ┌────────────────────────────────────┐
+                    │              Frontend               │
+                    │        (Streamlit Web App)         │
+                    └────────────────────────────────────┘
+                                   │  REST API Calls
+                                   ▼
+                    ┌────────────────────────────────────┐
+                    │             FastAPI API             │
+                    │  (Multi-Agent Orchestration Layer) │
+                    └────────────────────────────────────┘
+                 ┌──────────────┬───────────────┬────────────────┐
+                 ▼              ▼               ▼
+      ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
+      │ Resume Agent   │ │ Interview Agent │ │ Job Rec Agent │
+      └────────────────┘ └────────────────┘ └────────────────┘
+      │ Parse + Score     │ Question Flow       │ Job similarity
+      │ Extract Skills     │ Score Answers       │ Rank & Recommend
+      │ Embeddings         │ Feedback            │ Rationales
+      └────────────────────┴─────────────────────┴───────────────────────┐
+                                                                          ▼
+                                         ┌──────────────────────────────────────────┐
+                                         │         Vector DB (Chroma/Pinecone)      │
+                                         │   Stores resume + job embedding vectors  │
+                                         └──────────────────────────────────────────┘
+                                                                          ▼
+                                        ┌───────────────────────────────────────────┐
+                                        │       SQL Database (Postgres/SQLite)      │
+                                        │ Stores user, resume, interview, jobs, etc │
+                                        └───────────────────────────────────────────┘
 
